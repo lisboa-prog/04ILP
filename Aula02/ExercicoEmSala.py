@@ -1,3 +1,5 @@
+# Calcula a Media de 4 notas e retorna se o aluno foi aprovado ou reprovado
+
 Nota1 = float(input("Digite a 1ª nota: "))
 Nota2 = float(input("Digite a 2ª nota: "))
 Nota3 = float(input("Digite a 3ª nota: "))
