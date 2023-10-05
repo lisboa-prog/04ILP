@@ -53,6 +53,7 @@ else:
     faixa_rendimento = "Faixa 5"
     imposto = (base_de_calculo - RENDA_FAIXA4) * ALIQUOTA_FAIXA5
 
+
 print(f"A aliquota é {aliquota:.2f}R$")
 print(f"A faixa de rendimento é {faixa_rendimento}")
 print(f"O imposto a pagar é {base_de_calculo:.2f}R$")
