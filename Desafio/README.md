@@ -27,5 +27,3 @@ Seu segundo requisito é executar a regressão linear em cada relacionamento, s�
 * Hemisfério Sul - Nebulosidade (%) vs. Latitude
 * Hemisfério Norte - Velocidade do Vento (mph) vs. Latitude
 * Hemisfério Sul - Velocidade do Vento (mph) vs. Latitude
-
-Após cada par de gráficos, explique o que a regressão linear está modelando, como quaisquer relacionamentos que você observe e qualquer outra análise que possa ter
